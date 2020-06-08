@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="add_new_task">Add new task</string>
+    <string name="add_new_task_success">Add new task successfully</string>
+    <string name="remove_task_success">Remove task successfully</string>
+    <string name="error_message">There is an unexpected error. Please try later</string>
+    <string name="please_fill_this_text">Please fill this text</string>
+    <string name="tasks">Tasks</string>
+    <string name="text_weather">%s - %s ‎°C</string>
+</resources>
